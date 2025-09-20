@@ -107,3 +107,57 @@
     <!-- End Mobile Menu -->
 
 </header>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Enquire Now</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="contact-form">
+                    <form method="post" action="send.php">
+                        <div class="row clearfix">
+
+                            <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                                <input type="text" name="username" placeholder="First Name" required>
+                            </div>
+
+                            <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                                <input type="text" name="lastname" placeholder="Last Name" required>
+                            </div>
+
+                            <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                                <input type="email" name="email" placeholder="Email address" required>
+                            </div>
+
+                            <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                                <input type="text" name="services" placeholder="Services" required>
+                            </div>
+
+                            <div class="form-group col-lg-12 col-md-12 col-sm-12">
+                                <textarea class="" name="message" placeholder="Your Massage"></textarea>
+                            </div>
+
+                            <div class="form-group">
+                                <!-- Button Box -->
+                                <button class="theme-btn btn-style-three">
+                                    <span class="btn-wrap">
+                                        <span class="text-one">Submit Now <i><img src="assets/images/icons/arrow-1.svg"
+                                                    alt="" /></i></span>
+                                        <span class="text-two">Submit Now <i><img src="assets/images/icons/arrow-1.svg"
+                                                    alt="" /></i></span>
+                                    </span>
+                                </button>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

@@ -112,7 +112,7 @@
 
                             <!-- Contact Form -->
                             <div class="contact-form">
-                                <form method="post" action="#p" id="contact-form">
+                                <form method="post" action="mail.php">
                                     <div class="row clearfix">
 
                                         <div class="form-group col-lg-6 col-md-6 col-sm-12">

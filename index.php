@@ -112,7 +112,7 @@
                     </div>
                     <div class="modal-body">
                         <div class="contact-form">
-                            <form method="post" action="#p">
+                            <form method="post" action="send.php">
                                 <div class="row clearfix">
 
                                     <div class="form-group col-lg-6 col-md-6 col-sm-12">
