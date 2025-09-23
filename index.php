@@ -2,6 +2,23 @@
 <html>
 
 <head>
+
+    <meta name="google-site-verification" content="Nn84CUsY4_ovtbVDwgdnvUMjqFXRVfp2-I2D495To-U" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GEH2LS2EL2"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-GEH2LS2EL2');
+    </script>
+
+
     <meta charset="utf-8">
     <title>Bhagwant Construction</title>
     <!-- Stylesheets -->
