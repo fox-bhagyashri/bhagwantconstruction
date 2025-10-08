@@ -2,9 +2,9 @@
 
 
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "bhagwant";
+$username = "bhag_bhagwant";
+$password = "cG6GHCh20Ol%1#DC";
+$dbname = "bhag_bhagwantconstruction";
 // Create connection
 $conn = new mysqli($servername, $username, $password,$dbname);
 
