@@ -39,8 +39,8 @@
     <!-- Color Themes -->
     <link id="theme-color-file" href="assets/css/color-themes/default-color.css" rel="stylesheet">
 
-    <link rel="shortcut icon" href="assets/images/Bhagwant Logo PNG.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/Bhagwant Logo PNG.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/Bhagwant Logo.png" type="image/x-icon">
+    <link rel="icon" href="assets/images/Bhagwant Logo.png" type="image/x-icon">
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -323,7 +323,8 @@
             <div class="auto-container">
                 <div class="sec-title title-anim">
                     <div class="sec-title_title">WHO WE ARE</div>
-                    <h2 class="sec-title_heading">About Bhagwant Construction
+                    <h2 class="sec-title_heading">About <span style="color: rgb(191 142 47);">Bhagwant
+                            Construction</span>
                     </h2>
                 </div>
 
@@ -371,10 +372,11 @@
                             <!-- Feature Block One -->
                             <div class="feature-block_one">
                                 <!-- <h4 class="feature-block_one-title">Our vision</h4> -->
-                                <div class="feature-block_one-text">Established in 2008, we have grown into a leading
+                                <div class="feature-block_one-text">Established in 2005, we have grown into a leading
                                     force in the engineering and construction sector, renowned for delivering complex
                                     and impactful projects across India. With over a decade of dedicated service, we
-                                    have built a reputation for excellence, reliability, and innovation.</div>
+                                    have built a reputation for excellence, reliability, and innovation. We are
+                                    <b>government civil contractors with 20 years of experience.</b></div>
 
 
                                 <div class="feature-block_one-text">Our expertise spans a diverse portfolio, from
@@ -649,23 +651,23 @@
                     <div class="project-block_one">
                         <div class="project-block_one-inner">
                             <div class="project-block_one-image">
-                                <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.30.23 PM (7).jpeg"
-                                    alt="" />
+                                <img src="assets/images/company/WhatsApp Image 2025-07-26 at 3.46.04 PM.jpeg" alt="" />
                                 <div class="project-block_one-overlay">
                                     <div class="project-block_one-overlay_inner"
                                         style="background-image:url(assets/images/background/project-1.png)">
                                         <div class="d-flex justify-content-between align-items-center flex-wrap">
                                             <div class="project-block_one-title">Builder</div>
                                             <div class="project-block_one-location"><i class="icon"><img
-                                                        src="assets/images/icons/location.svg" alt="" /></i> Hollywood,
-                                                Florida</div>
+                                                        src="assets/images/icons/location.svg" alt="" /></i> Ravet,
+                                                Pune</div>
                                         </div>
-                                        <h3 class="project-block_one-heading"><a href="#">Work With
-                                                <br> Energetic Team</a></h3>
-                                        <div class="project-block_one-text">Our solutions are designed to meet the needs
-                                            of modern enterprises, ensuring they thrive in today’s competitive online
-                                            landscape.</div>
-                                        <a href="#" class="project-block_one-arrow">
+                                        <h3 class="project-block_one-heading"><a href="services.php">Road
+                                                Construction</a></h3>
+                                        <div class="project-block_one-text">we have grown into a leading force in the
+                                            engineering and construction sector, renowned for delivering complex and
+                                            impactful projects across India. With over a decade of dedicated service, we
+                                            have built a reputation for excellence, reliability, and innovation.</div>
+                                        <a href="services.php" class="project-block_one-arrow">
                                             <i class="fa-classic fa-solid fa-arrow-right fa-fw"></i>
                                         </a>
                                     </div>
@@ -686,15 +688,16 @@
                                         <div class="d-flex justify-content-between align-items-center flex-wrap">
                                             <div class="project-block_one-title">Builder</div>
                                             <div class="project-block_one-location"><i class="icon"><img
-                                                        src="assets/images/icons/location.svg" alt="" /></i> Hollywood,
-                                                Florida</div>
+                                                        src="assets/images/icons/location.svg" alt="" /></i>Hinjewadi,
+                                                Pune</div>
                                         </div>
-                                        <h3 class="project-block_one-heading"><a href="#">Mixed-Use
-                                                <br> Development</a></h3>
-                                        <div class="project-block_one-text">Our solutions are designed to meet the needs
-                                            of modern enterprises, ensuring they thrive in today’s competitive online
-                                            landscape.</div>
-                                        <a href="#" class="project-block_one-arrow">
+                                        <h3 class="project-block_one-heading"><a href="services.php">Road
+                                                Construction</a></h3>
+                                        <div class="project-block_one-text">we have grown into a leading force in the
+                                            engineering and construction sector, renowned for delivering complex and
+                                            impactful projects across India. With over a decade of dedicated service, we
+                                            have built a reputation for excellence, reliability, and innovation.</div>
+                                        <a href="services.php" class="project-block_one-arrow">
                                             <i class="fa-classic fa-solid fa-arrow-right fa-fw"></i>
                                         </a>
                                     </div>
@@ -717,15 +720,16 @@
                                         <div class="d-flex justify-content-between align-items-center flex-wrap">
                                             <div class="project-block_one-title">Builder</div>
                                             <div class="project-block_one-location"><i class="icon"><img
-                                                        src="assets/images/icons/location.svg" alt="" /></i> Hollywood,
-                                                Florida</div>
+                                                        src="assets/images/icons/location.svg" alt="" /></i> Talegaon,
+                                                Pune</div>
                                         </div>
-                                        <h3 class="project-block_one-heading"><a href="#">Greenview
-                                                <br> Apartments</a></h3>
-                                        <div class="project-block_one-text">Our solutions are designed to meet the needs
-                                            of modern enterprises, ensuring they thrive in today’s competitive online
-                                            landscape.</div>
-                                        <a href="#" class="project-block_one-arrow">
+                                        <h3 class="project-block_one-heading"><a href="services.php">Hightway
+                                                Construction</a></h3>
+                                        <div class="project-block_one-text">we have grown into a leading force in the
+                                            engineering and construction sector, renowned for delivering complex and
+                                            impactful projects across India. With over a decade of dedicated service, we
+                                            have built a reputation for excellence, reliability, and innovation.</div>
+                                        <a href="services.php" class="project-block_one-arrow">
                                             <i class="fa-classic fa-solid fa-arrow-right fa-fw"></i>
                                         </a>
                                     </div>
@@ -941,7 +945,7 @@
 
                 <div class="row clearfix">
                     <!-- Column -->
-                    <div class="column col-lg-6 col-md-12 col-sm-12">
+                    <div class="column col-lg-7 col-md-12 col-sm-12">
                         <div class="row clearfix">
 
                             <!-- Info Block One -->
@@ -958,7 +962,7 @@
                                 <div class="info-block_one-inner">
                                     <div class="info-block_one-icon fa-classic fa-solid fa-envelope fa-fw"></div>
                                     <strong>Our Email Us</strong>
-                                    example@gmail.com
+                                    bhagwant.construction@gmail.com
                                 </div>
                             </div>
 
@@ -984,7 +988,7 @@
                         </div>
                     </div>
                     <!-- Column -->
-                    <div class="column col-lg-6 col-md-12 col-sm-12">
+                    <div class="column col-lg-5 col-md-12 col-sm-12">
                         <!-- Contact Form -->
                         <div class="contact-form">
                             <form method="post" action="#" id="contact-form">

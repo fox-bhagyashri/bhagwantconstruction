@@ -15,15 +15,18 @@
                         <div class="main-footer_column col-lg-7 col-md-6 col-sm-12">
                             <div class="logo-widget">
                                 <div class="main-footer_logo"><a href="index.php"><img
-                                            src="assets/images/Bhagwant Logo PNG.png" alt="" title="" width="220"></a>
+                                            src="assets/images/Bhagwant Logo.png" alt="" title="" width="220"></a>
                                 </div>
 
                                 <!-- Social Box -->
                                 <div class="main-footer_socials">
                                     <span>Follow Us:</span>
-                                    <a href="https://facebook.com/"><i class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="https://instagram.com/"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
+                                    <a href="https://www.facebook.com/profile.php?id=61578381196346" target="_blank"><i
+                                            class="fa-brands fa-facebook-f"></i></a>
+                                    <a href="https://www.instagram.com/bhagwantconstruction/" target="_blank"><i
+                                            class="fa-brands fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/company/108644798" target="_blank"><i
+                                            class="fa-brands fa-linkedin"></i></a>
                                     <!-- <a href="https://dribbble.com/"><i class="fa-brands fa-dribbble"></i></a> -->
                                 </div>
                             </div>
@@ -111,7 +114,7 @@
                                             </div>
                                             <div class="">
                                                 <h4 style="color:#000000">Phone</h4>
-                                                <p style="color:#000000">+91 9921489499, +91 65654333222</p>
+                                                <p style="color:#000000">+91 9921489499, +91 9890489499</p>
                                             </div>
 
                                         </div>

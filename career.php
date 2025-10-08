@@ -49,6 +49,8 @@
         <!-- Main Header -->
         <?php include 'header.php'; ?>
         <!-- End Main Header -->
+
+
         <style>
         .overlay-section {
             position: relative;
@@ -81,11 +83,11 @@
         <section class="page-title overlay-section"
             style="background-image:url(assets/images/construction-worker-silhouette-work-place.jpg)">
             <div class="auto-container">
-                <h2>Contact Us</h2>
+                <h2>Career</h2>
                 <div class="d-flex justify-content-between align-items-center flex-wrap">
                     <ul class="bread-crumb clearfix">
                         <li><a href="index.php">Home</a></li>
-                        <li>Contact Us</li>
+                        <li>Career</li>
                     </ul>
                 </div>
             </div>
@@ -93,47 +95,60 @@
 
         <!-- End Page Title -->
 
-        <!-- Contact Three -->
-        <section class="contact-three">
-            <div class="page-top_pattern" style="background-image:url(assets/images/background/pattern-13.png)"></div>
+        <!-- About One -->
+        <section class="about-one">
+            <div class="about-one_pattern-layer" style="background-image:url(assets/images/background/pattern-1.png)">
+            </div>
+            <div class="about-one_cap" style="background-image:url(assets/images/icons/about-cap.png)"></div>
             <div class="auto-container">
+
                 <div class="row clearfix">
 
-                    <!-- Form Column -->
-                    <div class="contact-three_form-column col-lg-7 col-md-6 col-sm-12">
-                        <div class="contact-three_form-outer">
+
+                    <!-- Content Column -->
+
+                    <div class="contact-three_form-column col-lg-8 col-md-8 col-sm-12 m-auto">
+                        <div class="contact-three_form-outer" style="    background: #bf8e2f36;padding: 36px;">
                             <!-- Sec Title -->
                             <div class="sec-title">
-                                <div class="sec-title_title">
-                                    Keep In Touch
-                                </div>
-                                <h3 class="sec-title_heading">Get in touch with our <br> lovely team </h3>
+
+                                <h3 class="">Career Form</h3>
                             </div>
 
                             <!-- Contact Form -->
                             <div class="contact-form">
-                                <form method="post" action="mail.php">
+                                <form method="post" action="careerform.php" enctype="multipart/form-data">
                                     <div class="row clearfix">
 
-                                        <div class="form-group col-lg-6 col-md-6 col-sm-12">
-                                            <input type="text" name="username" placeholder="First Name" required>
+                                        <div class="form-group col-lg-12 col-md-12 col-sm-12">
+                                            <input type="text" name="name" placeholder="Full Name" required>
                                         </div>
 
                                         <div class="form-group col-lg-6 col-md-6 col-sm-12">
-                                            <input type="text" name="lastname" placeholder="Last Name" required>
+                                            <input type="tel" name="phone" placeholder="Contact Number"
+                                                oninput="this.value = this.value.replace(/[^0-9]/g, '');"
+                                                class="form-control" maxlength="10" pattern="[0-9]{10}" required>
                                         </div>
 
                                         <div class="form-group col-lg-6 col-md-6 col-sm-12">
                                             <input type="email" name="email" placeholder="Email address" required>
                                         </div>
+                                        <div class="form-group col-lg-12 col-md-12 col-sm-12">
+                                            <input type="text" name="address" placeholder="Address" required>
+                                        </div>
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                                            <input type="text" name="position" placeholder="Position" required>
+                                        </div>
 
                                         <div class="form-group col-lg-6 col-md-6 col-sm-12">
-                                            <input type="text" name="services" placeholder="Services" required>
+                                            <input type="file" name="resume" class="form-control" placeholder="Services"
+                                                required
+                                                style="height: 60px; background: none rgb(245, 245, 245);border-radius: 50px;    padding: 16px  30px;">
                                         </div>
 
-                                        <div class="form-group col-lg-12 col-md-12 col-sm-12">
+                                        <!-- <div class="form-group col-lg-12 col-md-12 col-sm-12">
                                             <textarea class="" name="message" placeholder="Your Massage"></textarea>
-                                        </div>
+                                        </div> -->
 
                                         <div class="form-group">
                                             <!-- Button Box -->
@@ -156,65 +171,21 @@
                         </div>
                     </div>
 
-                    <!-- Info Column -->
-                    <div class="contact-three_info-column col-lg-5 col-md-6 col-sm-12">
-                        <div class="contact-three_info-outer">
-                            <h3 class="mb-5">Contact <br> Information</h3>
-                            <!-- <div class="contact-info_text">We’ve grown up with the internet revolution, <br> and we know
-                                how to deliver on its</div> -->
-
-                            <!-- Info Block -->
-                            <div class="contact-info_block">
-                                <div class="contact-info_block-inner">
-                                    <div class="contact-info_block-icon">
-                                        <i class="fa-classic fa-solid fa-location-dot fa-fw"></i>
-                                    </div>
-                                    <h4>Location</h4>
-                                    <p>CTS No.4702, Building-A, 2nd Floor, Office No-210, Bramha Sky Uzuri, Near Dr.
-                                        Babasaheb Ambedkar Chowk, Pimpri, Pune-411018.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <!-- Info Block -->
-                            <div class="contact-info_block">
-                                <div class="contact-info_block-inner">
-                                    <div class="contact-info_block-icon">
-                                        <i class="fa-classic fa-solid fa-phone fa-fw"></i>
-                                    </div>
-                                    <h4>Phone</h4>
-                                    <p>+91 9921489499 <br> bhagwant.construction@gmail.com</p>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
 
                 </div>
 
+
+
+
             </div>
         </section>
-        <!-- End Faq One -->
-
-        <!-- Map One -->
-        <section class="map-one">
-            <div class="auto-container">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60483.06058757997!2d73.78601600294922!3d18.655410269021075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b99016b6fd6f%3A0xafc09d5f7c8262ab!2sDr%20Babasaheb%20Ambedkar%20chowk!5e0!3m2!1sen!2sin!4v1754462751123!5m2!1sen!2sin"
-                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-        </section>
-        <!-- End Map One -->
-
+        <!-- End About One -->
 
 
 
         <!-- Main Footer -->
-        <?php include_once 'footer.php'; ?>
+        <?php include 'footer.php'; ?>
         <!-- End Main Footer -->
-
-
 
 
     </div>

@@ -22,8 +22,8 @@
     <!-- Color Themes -->
     <link id="theme-color-file" href="assets/css/color-themes/default-color.css" rel="stylesheet">
 
-    <link rel="shortcut icon" href="assets/images/Bhagwant Logo PNG.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/Bhagwant Logo PNG.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/Bhagwant Logo.png" type="image/x-icon">
+    <link rel="icon" href="assets/images/Bhagwant Logo.png" type="image/x-icon">
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -103,7 +103,9 @@
             <div class="auto-container">
                 <div class="sec-title title-anim">
                     <div class="sec-title_title">WHO WE ARE</div>
-                    <h2 class="sec-title_heading" style="left: 0px;">About Bhagwant Construction</h2>
+                    <h2 class="sec-title_heading" style="left: 0px;">About <span
+                            style="color: rgb(191 142 47);">Bhagwant
+                            Construction</span></h2>
                 </div>
 
                 <div class="row clearfix">
@@ -139,10 +141,12 @@
                             <!-- Feature Block One -->
                             <div class="feature-block_one">
                                 <!-- <h4 class="feature-block_one-title">Our vision</h4> -->
-                                <div class="feature-block_one-text">Established in 2008, we have grown into a leading
+                                <div class="feature-block_one-text">Established in 2005, we have grown into a leading
                                     force in the engineering and construction sector, renowned for delivering complex
                                     and impactful projects across India. With over a decade of dedicated service, we
-                                    have built a reputation for excellence, reliability, and innovation.</div><br>
+                                    have built a reputation for excellence, reliability, and innovation. We are
+                                    <b>government civil contractors with 20 years of experience.</b>
+                                </div><br>
 
                                 <div class="feature-block_one-text">Our expertise spans a diverse portfolio, from
                                     critical infrastructure like roads and highways to specialized constructions such as
@@ -193,7 +197,7 @@
                                         <h4 class="feature-block_one-title" style="font-size: 32px;">About <span
                                                 style="color:rgb(47 127 191);">Director
                                             </span></h4>
-                                        <div class="feature-block_one-text"> With over <strong>8 years of
+                                        <div class="feature-block_one-text"> With over <strong>20 years of
                                                 experience</strong> in the construction industry,
                                             <strong>Sachin Jadhav</strong> has built a reputation for excellence,
                                             innovation,

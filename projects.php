@@ -25,8 +25,8 @@ include_once 'conn.php';
     <!-- Color Themes -->
     <link id="theme-color-file" href="assets/css/color-themes/default-color.css" rel="stylesheet">
 
-    <link rel="shortcut icon" href="assets/images/Bhagwant Logo PNG.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/Bhagwant Logo PNG.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/Bhagwant Logo.png" type="image/x-icon">
+    <link rel="icon" href="assets/images/Bhagwant Logo.png" type="image/x-icon">
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

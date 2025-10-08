@@ -7,7 +7,7 @@
                 <div class="d-flex justify-content-between align-items-center">
 
                     <div class="logo-box">
-                        <div class="logo"><a href="index.php"><img src="assets/images/Bhagwant Logo PNG.png" alt=""
+                        <div class="logo"><a href="index.php"><img src="assets/images/Bhagwant Logo.png" alt=""
                                     title="Constrc" width="200"></a></div>
                     </div>
 
@@ -37,6 +37,12 @@
 
                                     </li>
                                     <li class=""><a href="projects.php">projects</a>
+
+                                    </li>
+                                    <li class=""><a href="career.php">Career</a>
+
+                                    </li>
+                                    <li class=""><a href="product.php">Products</a>
 
                                     </li>
 
@@ -96,7 +102,7 @@
         <div class="close-btn"><span class="icon fa-xmark"></span></div>
 
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.php"><img src="assets/images/Bhagwant Logo PNG.png" alt="" title=""
+            <div class="nav-logo"><a href="index.php"><img src="assets/images/Bhagwant Logo.png" alt="" title=""
                         width="150"></a>
             </div>
             <div class="menu-outer">
@@ -143,7 +149,7 @@
 
                             <div class="form-group">
                                 <!-- Button Box -->
-                                <button class="theme-btn btn-style-three">
+                                <button class="theme-btn btn-style-three" type="submit">
                                     <span class="btn-wrap">
                                         <span class="text-one">Submit Now <i><img src="assets/images/icons/arrow-1.svg"
                                                     alt="" /></i></span>
