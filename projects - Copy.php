@@ -119,100 +119,22 @@ include_once 'conn.php';
             <div class="container py-4">
 
                 <div class="row gallery g-3">
-                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist" style="    justify-content: center;">
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill"
-                                data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
-                                aria-selected="true" style="font-size: 18px;">Ravet</button>
-                        </li>
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill"
-                                data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
-                                aria-selected="false" style="font-size: 18px;">Talegoan</button>
-                        </li>
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill"
-                                data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
-                                aria-selected="false" style="font-size: 18px;">Hinjawadi</button>
-                        </li>
-                    </ul>
-                    <div class="tab-content" id="pills-tabContent">
-                        <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
-                            aria-labelledby="pills-home-tab">
-
-                            <div class="row">
-                                <?php 
+                    <?php 
                                            
-                                           $sql = "SELECT * FROM projects WHERE site_name='Ravet'";
+                                           $sql = "SELECT * FROM projects";
                                            $result = $conn->query($sql);
                                            if ($result->num_rows > 0) {
                                              // output data of each row
                                                 $srno = 1;
                                              while($row = $result->fetch_assoc()) {
                                            ?>
-
-                                <div class="col-6 col-md-4 col-lg-3 mb-3">
-                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
-
-                                </div>
-                                <?php
-                                             }
-                                            }
-                                            ?>
-                            </div>
-
-                        </div>
-                        <div class="tab-pane fade" id="pills-profile" role="tabpanel"
-                            aria-labelledby="pills-profile-tab">
-
-                            <div class="row">
-                                <?php 
-                                           
-                                           $sql = "SELECT * FROM projects WHERE site_name='Talegoan'";
-                                           $result = $conn->query($sql);
-                                           if ($result->num_rows > 0) {
-                                             // output data of each row
-                                                $srno = 1;
-                                             while($row = $result->fetch_assoc()) {
-                                           ?>
-
-                                <div class="col-6 col-md-4 col-lg-3 mb-3">
-                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
-
-                                </div>
-                                <?php
-                                             }
-                                            }
-                                            ?>
-                            </div>
-
-                        </div>
-                        <div class="tab-pane fade" id="pills-contact" role="tabpanel"
-                            aria-labelledby="pills-contact-tab">
-
-                            <div class="row">
-                                <?php 
-                                           
-                                           $sql = "SELECT * FROM projects WHERE site_name='Hinjawadi'";
-                                           $result = $conn->query($sql);
-                                           if ($result->num_rows > 0) {
-                                             // output data of each row
-                                                $srno = 1;
-                                             while($row = $result->fetch_assoc()) {
-                                           ?>
-
-                                <div class="col-6 col-md-4 col-lg-3 mb-3">
-                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
-
-                                </div>
-                                <?php
-                                             }
-                                            }
-                                            ?>
-                            </div>
-
-                        </div>
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
                     </div>
+                    <?php
+                                             }
+                                            }
+                                            ?>
 
                 </div>
             </div>

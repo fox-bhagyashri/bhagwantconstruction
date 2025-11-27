@@ -115,7 +115,8 @@
                             <div class="customer-block_one-inner wow fadeInLeft" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div class="customer-block_one-bg"
-                                    style="background-image:url(assets/images/background/choose-one_bg.jpg)"></div>
+                                    style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(assets/images/company/Gemini_Generated_Image_x20ugjx20ugjx20u.png);">
+                                </div>
                                 <!-- <div class="customer-block_one-number">01</div> -->
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-1.svg" alt="" style="width: 60px;" />
@@ -136,7 +137,8 @@
                             <div class="customer-block_one-inner wow fadeInUp" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div class="customer-block_one-bg"
-                                    style="background-image:url(assets/images/background/choose-one_bg.jpg)"></div>
+                                    style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(assets/images/company/Gemini_Generated_Image_iyyi3niyyi3niyyi.png);">
+                                </div>
                                 <!-- <div class="customer-block_one-number">02</div> -->
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-2.svg" alt="" style="width: 60px;" />
@@ -158,7 +160,8 @@
                             <div class="customer-block_one-inner wow fadeInRight" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div class="customer-block_one-bg"
-                                    style="background-image:url(assets/images/background/choose-one_bg.jpg)"></div>
+                                    style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(assets/images/company/Gemini_Generated_Image_m653icm653icm653.png)">
+                                </div>
                                 <!-- <div class="customer-block_one-number">03</div> -->
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-3.svg" alt="" style="width: 60px;" />
@@ -181,7 +184,8 @@
                             <div class="customer-block_one-inner wow fadeInLeft" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div class="customer-block_one-bg"
-                                    style="background-image:url(assets/images/background/choose-one_bg.jpg)"></div>
+                                    style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(assets/images/company/Gemini_Generated_Image_xjs80mxjs80mxjs8.png)">
+                                </div>
                                 <!-- <div class="customer-block_one-number">04</div> -->
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-1.svg" alt="" style="width: 60px;" />
@@ -202,7 +206,8 @@
                             <div class="customer-block_one-inner wow fadeInUp" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div class="customer-block_one-bg"
-                                    style="background-image:url(assets/images/background/choose-one_bg.jpg)"></div>
+                                    style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(assets/images/company/Gemini_Generated_Image_4jc2aj4jc2aj4jc2.png)">
+                                </div>
                                 <!-- <div class="customer-block_one-number">05</div> -->
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-2.svg" alt="" style="width: 60px;" />
@@ -223,7 +228,8 @@
                             <div class="customer-block_one-inner wow fadeInRight" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div class="customer-block_one-bg"
-                                    style="background-image:url(assets/images/background/choose-one_bg.jpg)"></div>
+                                    style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(assets/images/company/Gemini_Generated_Image_y0htf5y0htf5y0ht.png)">
+                                </div>
                                 <!-- <div class="customer-block_one-number">06</div> -->
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-3.svg" alt="" style="width: 60px;" />
@@ -246,7 +252,8 @@
                             <div class="customer-block_one-inner wow fadeInRight" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div class="customer-block_one-bg"
-                                    style="background-image:url(assets/images/background/choose-one_bg.jpg)"></div>
+                                    style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(assets/images/company/Gemini_Generated_Image_nmapidnmapidnmap.png)">
+                                </div>
                                 <!-- <div class="customer-block_one-number">06</div> -->
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-3.svg" alt="" style="width: 60px;" />
@@ -269,7 +276,8 @@
                             <div class="customer-block_one-inner wow fadeInRight" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div class="customer-block_one-bg"
-                                    style="background-image:url(assets/images/background/choose-one_bg.jpg)"></div>
+                                    style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(assets/images/company/Gemini_Generated_Image_m653icm653icm653.png)">
+                                </div>
                                 <!-- <div class="customer-block_one-number">06</div> -->
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-3.svg" alt="" style="width: 60px;" />
@@ -293,7 +301,8 @@
                             <div class="customer-block_one-inner wow fadeInRight" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div class="customer-block_one-bg"
-                                    style="background-image:url(assets/images/background/choose-one_bg.jpg)"></div>
+                                    style="background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(assets/images/company/Gemini_Generated_Image_w296tpw296tpw296.png)">
+                                </div>
                                 <!-- <div class="customer-block_one-number">06</div> -->
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-3.svg" alt="" style="width: 60px;" />

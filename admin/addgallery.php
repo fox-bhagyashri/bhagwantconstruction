@@ -57,13 +57,23 @@ if (empty($_SESSION['admin_session'])) {
                                         <div class="col-12 col-sm-6">
                                             <div class="form-group">
                                                 <label>Upload Image</label>
-                                                <input type="file" name="images[]" class="form-control"
-                                                    id="fileToUpload" placeholder="Main image"
-                                                    data-msg="Please enter a valid image" multiple>
+                                                <input type="file" name="images" class="form-control" id="fileToUpload"
+                                                    placeholder="Main image" data-msg="Please enter a valid image"
+                                                    multiple>
                                             </div>
 
                                         </div>
-                                      
+                                        <div class="col-12 col-sm-6">
+                                            <div class="form-group">
+                                                <label>Site Name</label>
+                                                <input type="text" name="sitename" class="form-control"
+                                                    id="fileToUpload" placeholder="Site Name"
+                                                    data-msg="Please enter a valid image">
+                                            </div>
+
+                                        </div>
+
+
 
                                         <div class="col-12">
                                             <button type="submit" name="" class="btn btn-primary">Submit</button>

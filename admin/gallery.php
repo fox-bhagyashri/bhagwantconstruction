@@ -62,7 +62,7 @@ include '../conn.php';
                                                 <th>#</th>
                                                 <!-- <th>Name</th> -->
                                                 <th>Photo</th>
-                                                <!-- <th>Cost</th> -->
+                                                <th>Site Name</th>
 
                                                 <!-- <th>Description </th> -->
                                                 <th class="text-right">Action</th>
@@ -88,6 +88,9 @@ include '../conn.php';
                                                 </td>
 
 
+                                                <td>
+                                                   <p><?php echo $row["site_name"] ?></p>
+                                                </td>
 
 
 

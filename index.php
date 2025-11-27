@@ -336,7 +336,7 @@
                             <div class="row clearfix">
                                 <div class="column col-lg-4 col-md-6 col-sm-6">
                                     <div class="image">
-                                        <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.42.06 PM (19).jpeg"
+                                        <img src="assets/images/company/WhatsApp Image 2023-08-16 at 14.21.25.jpeg"
                                             alt="" />
                                     </div>
                                     <div class="about-construction_image">
@@ -376,7 +376,8 @@
                                     force in the engineering and construction sector, renowned for delivering complex
                                     and impactful projects across India. With over a decade of dedicated service, we
                                     have built a reputation for excellence, reliability, and innovation. We are
-                                    <b>government civil contractors with 20 years of experience.</b></div>
+                                    <b>government civil contractors with 20 years of experience.</b>
+                                </div>
 
 
                                 <div class="feature-block_one-text">Our expertise spans a diverse portfolio, from
@@ -477,7 +478,7 @@
                                 <div class="service-one_images_outer">
                                     <!-- Image -->
                                     <div class="service-one_image active">
-                                        <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.30.23 PM (16).jpeg"
+                                        <img src="assets/images/company/Gemini_Generated_Image_nmapidnmapidnmap.png"
                                             alt="" />
                                         <div class="service-one_content">
                                             <!-- Button Box -->
@@ -502,7 +503,7 @@
                                     </div>
                                     <!-- Image -->
                                     <div class="service-one_image two">
-                                        <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.42.06 PM (17).jpeg"
+                                        <img src="assets/images/company/Gemini_Generated_Image_y0htf5y0htf5y0ht.png"
                                             alt="" />
                                         <div class="service-one_content">
                                             <!-- Button Box -->
@@ -527,7 +528,7 @@
                                     </div>
                                     <!-- Image -->
                                     <div class="service-one_image three">
-                                        <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.42.06 PM (25).jpeg"
+                                        <img src="assets/images/company/Gemini_Generated_Image_m653icm653icm653.png"
                                             alt="" />
                                         <div class="service-one_content">
                                             <!-- Button Box -->
@@ -552,7 +553,7 @@
                                     </div>
                                     <!-- Image -->
                                     <div class="service-one_image four">
-                                        <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.30.22 PM (2).jpeg"
+                                        <img src="assets/images/company/Gemini_Generated_Image_4jc2aj4jc2aj4jc2.png"
                                             alt="" />
                                         <div class="service-one_content">
                                             <!-- Button Box -->
@@ -577,7 +578,7 @@
                                     </div>
                                     <!-- Image -->
                                     <div class="service-one_image five">
-                                        <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.30.22 PM (14).jpeg"
+                                        <img src="assets/images/company/Gemini_Generated_Image_codz59codz59codz.png"
                                             alt="" />
                                         <div class="service-one_content">
                                             <!-- Button Box -->
@@ -602,7 +603,7 @@
                                     </div>
                                     <!-- Image -->
                                     <div class="service-one_image six">
-                                        <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.42.06 PM (11).jpeg"
+                                        <img src="assets/images/company/Gemini_Generated_Image_x20ugjx20ugjx20u.png"
                                             alt="" />
                                         <div class="service-one_content">
                                             <!-- Button Box -->
@@ -651,7 +652,8 @@
                     <div class="project-block_one">
                         <div class="project-block_one-inner">
                             <div class="project-block_one-image">
-                                <img src="assets/images/company/WhatsApp Image 2025-07-26 at 3.46.04 PM.jpeg" alt="" />
+                                <img src="assets/images/company/WhatsApp Image 2024-10-22 at 10.45.14 AM (1).jpeg"
+                                    alt="" />
                                 <div class="project-block_one-overlay">
                                     <div class="project-block_one-overlay_inner"
                                         style="background-image:url(assets/images/background/project-1.png)">
@@ -680,7 +682,7 @@
                     <div class="project-block_one style-two">
                         <div class="project-block_one-inner">
                             <div class="project-block_one-image">
-                                <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.30.23 PM (12).jpeg"
+                                <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.30.23 PM (2).jpeg"
                                     alt="" />
                                 <div class="project-block_one-overlay">
                                     <div class="project-block_one-overlay_inner"
@@ -712,8 +714,7 @@
                     <div class="project-block_one style-two">
                         <div class="project-block_one-inner">
                             <div class="project-block_one-image">
-                                <img src="assets/images/company/WhatsApp Image 2025-07-26 at 4.30.23 PM (2).jpeg"
-                                    alt="" />
+                                <img src="assets/images/company/WhatsApp Image 2024-09-04 at 9.17.11 AM.jpeg" alt="" />
                                 <div class="project-block_one-overlay">
                                     <div class="project-block_one-overlay_inner"
                                         style="background-image:url(assets/images/background/project-1.png)">
