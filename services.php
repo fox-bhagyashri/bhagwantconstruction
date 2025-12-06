@@ -234,7 +234,8 @@
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-3.svg" alt="" style="width: 60px;" />
                                 </div>
-                                <h3 class="customer-block_one-title" style="font-size: 25px;"><a href="#">Residential
+                                <h3 class="customer-block_one-title" style="font-size: 25px;"><a
+                                        href="Residential-Building-Construction.php">Residential
                                         Construction
                                     </a>
                                 </h3>
@@ -258,7 +259,8 @@
                                 <div class="customer-block_one-icon">
                                     <img src="assets/images/icons/customer-3.svg" alt="" style="width: 60px;" />
                                 </div>
-                                <h3 class="customer-block_one-title" style="font-size: 25px;"><a href="#">Commercial
+                                <h3 class="customer-block_one-title" style="font-size: 25px;"><a
+                                        href="Commercial-Construction.php">Commercial
                                         Construction
 
                                     </a>

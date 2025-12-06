@@ -188,16 +188,18 @@
                             <div class="slider-one_content">
                                 <div class="slider-one_content-inner">
                                     <!-- <div class="slider-one_title">unleash digital potential</div> -->
-                                    <h1 class="slider-one_heading">Building the <span>Future</span> From Foundations to
-                                        Flyovers</h1>
+                                    <h1 class="slider-one_heading">Bhagwant Construction:
+                                        <span>Most Trusted </span> Construction
+                                        Company In Pune
+                                    </h1>
                                     <div class="slider-one_text">We developed landmark real estate projects that deliver
                                         lasting value to investors and communities.</div>
                                     <div
                                         class="slider-one_button d-flex align-items-center justify-content-center flex-wrap">
-                                        <a href="#" class="theme-btn btn-style-two">
+                                        <a href="contact.php" class="theme-btn btn-style-two">
                                             <span class="btn-wrap">
-                                                <span class="text-one">Work With Us</span>
-                                                <span class="text-two">Work With Us</span>
+                                                <span class="text-one">Consult with our experts</span>
+                                                <span class="text-two">Consult with our experts</span>
                                             </span>
                                         </a>
                                         <!-- <div class="slider-one_video">
@@ -222,8 +224,8 @@
                             <div class="slider-one_content">
                                 <div class="slider-one_content-inner">
                                     <!-- <div class="slider-one_title">unleash digital potential</div> -->
-                                    <h1 class="slider-one_heading">Your Vision, Our <span>Blueprint </span> Delivered
-                                        Turnkey</h1>
+                                    <h2 class="slider-one_heading">Your Vision, Our <span>Blueprint </span> Delivered
+                                        Turnkey</h2>
                                     <div class="slider-one_text">We developed landmark real estate projects that deliver
                                         lasting value to investors and communities.</div>
                                     <div
@@ -256,8 +258,8 @@
                             <div class="slider-one_content">
                                 <div class="slider-one_content-inner">
                                     <!-- <div class="slider-one_title">unleash digital potential</div> -->
-                                    <h1 class="slider-one_heading">From Homes to <span>Highways</span> We Build It All
-                                    </h1>
+                                    <h2 class="slider-one_heading">From Homes to <span>Highways</span> We Build It All
+                                    </h2>
                                     <div class="slider-one_text">We developed landmark real estate projects that deliver
                                         lasting value to investors and communities.</div>
                                     <div
@@ -371,18 +373,29 @@
 
                             <!-- Feature Block One -->
                             <div class="feature-block_one">
-                                <!-- <h4 class="feature-block_one-title">Our vision</h4> -->
-                                <div class="feature-block_one-text">Established in 2005, we have grown into a leading
-                                    force in the engineering and construction sector, renowned for delivering complex
-                                    and impactful projects across India. With over a decade of dedicated service, we
-                                    have built a reputation for excellence, reliability, and innovation. We are
-                                    <b>government civil contractors with 20 years of experience.</b>
+                                <h2 class="feature-block_one-title" style="font-size: 28px;line-height: 36px;">What
+                                    Makes Bhagwant Construction the Leading Construction Company in Pune?
+                                </h2>
+                                <div class="feature-block_one-text">We started in 2008 with a clear goal: to build
+                                    long-lasting structures and lasting relationships.
                                 </div>
+                                <div class="feature-block_one-text">Today, we are a trusted construction company in Pune
+                                    because we deliver on our promises:
 
+                                </div>
+                                <ul>
+                                    <li style="list-style: disc;    font-size: 15px;">On-time delivery
+                                    </li>
+                                    <li style="list-style: disc;    font-size: 15px;">Ethical handling
+                                    </li>
+                                    <li style="list-style: disc;    font-size: 15px;">Zero compromise on construction
+                                        quality
+                                    </li>
+                                </ul>
 
-                                <div class="feature-block_one-text">Our expertise spans a diverse portfolio, from
-                                    critical infrastructure like roads and highways to specialized constructions such as
-                                    industrial facilities, educational institutions, and residential complexes.
+                                <div class="feature-block_one-text">Our work shapes the growing skyline across areas
+                                    Pimpri-Chinchwad, Baner, Hinjewadi, Kharadi, and Hadapsar, covering homes, offices,
+                                    roads, and bridge construction.
                                 </div>
 
                             </div>
@@ -398,6 +411,137 @@
             </div>
         </section>
         <!-- End About One -->
+
+
+        <section class="about-one" style="padding-top:50px">
+
+
+            <div class="auto-container">
+
+                <div class="row clearfix">
+
+                    <!-- Image Column -->
+                    <div class="about-one_content-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="about-one_content-outer" style="margin-top:54px;">
+
+                            <!-- Feature Block One -->
+                            <div class="feature-block_one">
+
+                                <div class="feature-block_one-text">If you have ever built a home or commercial space in
+                                    Pune, you know how frustrating it is with delayed timelines, rising costs, and
+                                    contractors who disappear once the work begins.
+
+
+                                </div>
+                                <div class="feature-block_one-text">At Bhagwant Construction, we've seen all the
+                                    issues—and we've spent over 20 years fixing them. We are dedicated to rewriting your
+                                    construction experience, one project at a time.
+
+
+                                </div>
+                                <div class="feature-block_one-text">We are more than just a construction company in
+                                    Pune. We combine advanced engineering technology with the personal commitment your
+                                    project needs.
+                                </div>
+
+
+
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+
+                    <!-- Content Column -->
+                    <div class="about-one_content-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="about-one_content-outer" style="margin-top:54px;">
+
+                            <!-- Feature Block One -->
+                            <div class="feature-block_one">
+                                <h2 class="feature-block_one-title" style="font-size: 28px;line-height: 36px;">What
+                                    What Problems Do We Fix That Other Builders Overlook?
+                                </h2>
+                                <style>
+                                table {
+                                    font-family: arial, sans-serif;
+                                    border-collapse: collapse;
+                                    width: 100%;
+                                }
+
+                                th {
+                                    font-size: 16px;
+                                    color: #000;
+                                }
+
+                                td,
+                                th {
+                                    border: 2px solid #5d5d5d;
+                                    text-align: left;
+                                    padding: 8px;
+
+                                }
+
+                                tr:nth-child(even) {
+                                    background-color: #2f7fbf;
+                                    color: #fff;
+                                }
+                                </style>
+                                <table>
+                                    <tr>
+                                        <th>Pain Point </th>
+                                        <th>Our Solutions </th>
+
+                                    </tr>
+                                    <tr>
+                                        <td>Delays kept happening </td>
+                                        <td>We promise clear deadlines and send weekly progress reports of projects to
+                                            the client</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>The budget kept varying </td>
+                                        <td>No hidden costs. We use a transparent pricing list ( known as BOQ) that you
+                                            approve before we start to work </td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>The material quality was poor</td>
+                                        <td>We use- IS-standard certified material </td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>Didn't receive any support after handover</td>
+                                        <td>Every project includes a defined warranty and support period.</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>Laughing Bacchus Winecellars</td>
+                                        <td>Yoshi Tannamuri</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>Local approvals are problematic </td>
+                                        <td>On your behalf, our team handles municipal permissions and RERA compliance
+                                        </td>
+
+                                    </tr>
+                                </table>
+
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
 
         <!-- Program One -->
         <section class="service-one">
@@ -417,8 +561,16 @@
                                     <div class="sec-title_title">
                                         Awesome Services
                                     </div>
-                                    <h2 class="sec-title_heading" style="    font-size: 55px;">Construction Service To
-                                        Our Clients</h2>
+                                    <h2 class="sec-title_heading" style="font-size: 35px;line-height:40px">How Do We
+                                        Blend Civil Engineering Skills with Pune's Local Needs?
+
+                                    </h2>
+                                    <p>We handle your project from concept to completion, blending smart design with
+                                        real-world construction techniques—a rare mix today.
+                                    </p>
+                                    <p>As a full-fledged civil engineering construction company in Pune, we are
+                                        professionals in managing projects of :
+                                    </p>
                                 </div>
                                 <div class="service-one_titles">
                                     <!-- One -->
@@ -496,9 +648,10 @@
                                             </div>
                                             <h3 class="service-one_sub-title"> Commercial Construction
                                             </h3>
-                                            <div class="service-one_text">We deliver high-performance commercial spaces,
-                                                including modern office buildings, retail centers, malls, and business
-                                                hubs.</div>
+                                            <div class="service-one_text">We built offices, a showroom, and mixed-use
+                                                buildings that are highly functional and offer a great return on
+                                                investment (ROI).
+                                            </div>
                                         </div>
                                     </div>
                                     <!-- Image -->
@@ -521,8 +674,10 @@
                                             </div>
                                             <h3 class="service-one_sub-title">Residential Construction
                                             </h3>
-                                            <div class="service-one_text">Our residential construction services focus on
-                                                developing homes that prioritize comfort, safety, and enduring value.
+                                            <div class="service-one_text">We build custom homes (bungalows, villas,
+                                                apartments) by considering vastu-friendly planning and
+                                                moisture-resistant foundation systems built for Pune’s monsoon weather.
+
                                             </div>
                                         </div>
                                     </div>
@@ -547,8 +702,8 @@
                                             <h3 class="service-one_sub-title">Civil Turnkey Projects
 
                                             </h3>
-                                            <div class="service-one_text">We manage civil turnkey projects with complete
-                                                accountability, from initial concept to final handover.</div>
+                                            <div class="service-one_text">We handle everything—from design drawings to
+                                                the final coat of paint—giving you a single, accountable partner.</div>
                                         </div>
                                     </div>
                                     <!-- Image -->
@@ -571,9 +726,11 @@
                                             </div>
                                             <h3 class="service-one_sub-title">Sports Infrastructure Development
                                             </h3>
-                                            <div class="service-one_text">We specialize in the construction of
-                                                high-performance sports facilities, ranging from stadiums to
-                                                comprehensive sports complexes.</div>
+                                            <div class="service-one_text">We design and build high-quality, modern
+                                                sports facilities, including stadiums, arenas, and training grounds.
+                                                Emphasize creating spaces that meet professional standards, are durable,
+                                                safe, and efficient for both athletes and spectators.
+                                            </div>
                                         </div>
                                     </div>
                                     <!-- Image -->
@@ -823,11 +980,12 @@
                             <!-- Sec Title -->
                             <div class="sec-title title-anim">
                                 <div class="sec-title_title">
-                                    Our approach to every project is rooted in a systematic and client-centric
-                                    methodology:
+                                    We keep the process straightforward and transparent, so you are always aware of what
+                                    is happening with your project.
 
                                 </div>
-                                <h2 class="sec-title_heading" style="    font-size: 48px;">How We Work
+                                <h2 class="sec-title_heading" style="font-size: 35px; line-height: 40px;">What is Our
+                                    Simple 4-Step Construction Process?
                                 </h2>
                             </div>
 
@@ -838,13 +996,14 @@
                                 <li class="accordion block active-block">
                                     <div class="acc-btn active">
                                         <div class="icon-outer"><span
-                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>What
-                                        Collaborative Planning :
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>1.
+                                        Let's Talk:
+
                                     </div>
                                     <div class="acc-content current">
                                         <div class="content">
-                                            <div class="text"> We work closely with clients to align on vision, goals,
-                                                and requirements.
+                                            <div class="text">We start our process by understanding your vision, budget,
+                                                and location where you want to build.
 
                                             </div>
                                         </div>
@@ -855,13 +1014,16 @@
                                 <li class="accordion block active-block">
                                     <div class="acc-btn active">
                                         <div class="icon-outer"><span
-                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>What
-                                        Expert Design & Engineering :
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>2.
+                                        Plan & Price Discussion:
+
                                     </div>
                                     <div class="acc-content current">
                                         <div class="content">
-                                            <div class="text"> Our team delivers innovative, efficient, and sustainable
-                                                designs.
+                                            <div class="text"> By considering all your requirements, we give you a
+                                                detailed plan, a clear cost sheet, and a step-by-step roadmap for the
+                                                project.
+
                                             </div>
                                         </div>
                                     </div>
@@ -872,13 +1034,16 @@
                                 <li class="accordion block active-block">
                                     <div class="acc-btn active">
                                         <div class="icon-outer"><span
-                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>What
-                                        Rigorous Execution :
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>3.
+                                        Building Time:
+
                                     </div>
                                     <div class="acc-content current">
                                         <div class="content">
-                                            <div class="text">Projects are executed with precision, safety, and top
-                                                industry standards.
+                                            <div class="text">Once we get confirmation on cost and other required
+                                                details, we proceed with the building, and our team manages everything
+                                                on-site, focusing on quality control and hitting all key deadlines.
+
                                             </div>
                                         </div>
                                     </div>
@@ -887,32 +1052,24 @@
                                 <li class="accordion block active-block">
                                     <div class="acc-btn active">
                                         <div class="icon-outer"><span
-                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>What
-                                        Integrated Project Management :
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>4.
+                                        Finished Project:
+
                                     </div>
                                     <div class="acc-content current">
                                         <div class="content">
-                                            <div class="text">We ensure seamless coordination, cost-effectiveness, and
-                                                timely delivery.
+                                            <div class="text">We hand over your keys, plus a warranty and all the
+                                                necessary paperwork.
+
+                                            </div>
+                                            <div class="text">No confusing jargon. No surprise costs. Just honest
+                                                construction from start to finish.
                                             </div>
                                         </div>
                                     </div>
                                 </li>
 
-                                <li class="accordion block active-block">
-                                    <div class="acc-btn active">
-                                        <div class="icon-outer"><span
-                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>What
-                                        Quality Assurance & Handover :
-                                    </div>
-                                    <div class="acc-content current">
-                                        <div class="content">
-                                            <div class="text">Every project undergoes strict quality checks before a
-                                                smooth, satisfactory handover.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
+
 
                             </ul>
 
@@ -926,6 +1083,230 @@
             </div>
         </section>
         <!-- End Faq One -->
+
+        <section class="faq-one" style="background-image:url(assets/images/construction-worker-silhouette-work-place.jpg); 
+           background-position:center;
+           background-size:cover;
+           background-repeat:no-repeat;    padding: 76px 0px 76px">
+
+            <div class="auto-container">
+                <div class="row">
+
+                    <!-- Image Column -->
+                    <div class="para col-lg-12 col-md-12 col-sm-12">
+                        <div class="sec-title title-anim text-center" style="    background: #000000a8;">
+                            <h2 class="sec-title_heading pt-4 pb-2"
+                                style="font-size: 35px; line-height: 40px;color:#fff">Let’s
+                                Build
+                                Something Pune Will Remember
+
+                            </h2>
+                            <div class="mt-4">
+                                <p style="text-align:center;color:#fff"> From the soil of Pimpri-Chinchwad to the
+                                    skyline of
+                                    Hinjewadi, our journey continues —
+                                    shaping Pune’s urban identity one project at a time.
+                                </p>
+                            </div>
+                            <div class="">
+                                <p style="text-align:center;color:#fff"> If you’re searching for experienced contractors
+                                    in Pune
+                                    who blend technology, tradition,
+                                    and trust, your search ends here.
+                                </p>
+                            </div>
+                            <div class="pb-4">
+                                <p style="text-align:center;color:#fff">Let’s design your next milestone together.</p>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+
+
+                </div>
+
+
+
+            </div>
+        </section>
+
+
+        <section class="faq-one">
+            <div class="faq-one_pattern" style="background-image:url(assets/images/background/pattern-4.png)"></div>
+            <div class="auto-container">
+                <div class="row clearfix">
+
+                    <!-- Image Column -->
+
+                    <!-- Image Column -->
+                    <div class="faq-one_accordian-column col-lg-7 col-md-12 col-sm-12">
+                        <div class="faq-one_accordian-outer">
+                            <!-- Sec Title -->
+                            <div class="sec-title title-anim">
+
+                                <h2 class="sec-title_heading" style="font-size: 31px; line-height: 40px;">Frequently
+                                    Asked Questions:
+                                </h2>
+                            </div>
+
+                            <!-- Accordion Box -->
+                            <ul class="accordion-box">
+
+                                <!-- Block -->
+                                <li class="accordion block active-block">
+                                    <div class="acc-btn active">
+                                        <div class="icon-outer"><span
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>Q:
+                                        Why choose Bhagwant Construction?
+                                    </div>
+                                    <div class="acc-content current">
+                                        <div class="content">
+                                            <div class="text">We handle your whole project end-to-end with our in-house
+                                                team, ensuring strict quality control and full, transparent costs.
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <!-- Block -->
+                                <li class="accordion block active-block">
+                                    <div class="acc-btn active">
+                                        <div class="icon-outer"><span
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>Q:
+                                        What kind of projects do you handle?
+                                    </div>
+                                    <div class="acc-content current">
+                                        <div class="content">
+                                            <div class="text"> We handle both residential and commercial projects from
+                                                luxury villas and apartments to large industrial sheds, warehouses, and
+                                                sports facilities. We build across all scales.
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+
+                                <!-- Block -->
+                                <li class="accordion block active-block">
+                                    <div class="acc-btn active">
+                                        <div class="icon-outer"><span
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>Q:
+                                        How quickly can you start?
+
+
+                                    </div>
+                                    <div class="acc-content current">
+                                        <div class="content">
+                                            <div class="text">Once all drawings and necessary approvals are received, we
+                                                typically begin construction work within 10–15 days.
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="accordion block active-block">
+                                    <div class="acc-btn active">
+                                        <div class="icon-outer"><span
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>Q:
+                                        How do you stay on schedule in Pune?
+
+
+                                    </div>
+                                    <div class="acc-content current">
+                                        <div class="content">
+                                            <div class="text">Our local workforce and logistics partners enable us to
+                                                avoid common delays from unpredictable weather or transport issues.
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="accordion block active-block">
+                                    <div class="acc-btn active">
+                                        <div class="icon-outer"><span
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>Q:
+                                        What is your construction belief?
+
+                                    </div>
+                                    <div class="acc-content current">
+                                        <div class="content">
+                                            <div class="text">Our philosophy is very simple: we design and build every
+                                                structure—strong, safe, and honest—as if we were building it for our own
+                                                family.
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="accordion block active-block">
+                                    <div class="acc-btn active">
+                                        <div class="icon-outer"><span
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>Q:
+                                        What is the typical cost to build a home in Pune?
+
+
+                                    </div>
+                                    <div class="acc-content current">
+                                        <div class="content">
+                                            <div class="text">Costs generally range from ₹1,700–₹2,800 per sq. ft. The
+                                                exact price depends on your design, materials, and necessary
+                                                permissions. We provide a detailed, exact cost sheet before any work
+                                                begins.
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="accordion block active-block">
+                                    <div class="acc-btn active">
+                                        <div class="icon-outer"><span
+                                                class="icon fa-classic fa-solid fa-arrow-right fa-fw"></span></div>Q: Do
+                                        you help with legal approvals?
+
+                                    </div>
+                                    <div class="acc-content current">
+                                        <div class="content">
+                                            <div class="text">Yes. Our in-house team of experts handles all local
+                                                documentation, including PMC/PCMC permissions and RERA compliance, for a
+                                                smooth, worry-free process.
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+
+
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="faq-one_accordian-column col-lg-5 col-md-12 col-sm-12">
+                        <img src="assets/images/WhatsApp Image 2023-08-26 at 10.12.05.jpeg" alt="" />
+                    </div>
+                </div>
+
+
+
+            </div>
+        </section>
+
+
 
         <!-- Contact One -->
         <section class="contact-one">

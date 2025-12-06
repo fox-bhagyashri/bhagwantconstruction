@@ -6835,7 +6835,7 @@
 	line-height: 80px;
 	color: var(--white-color);
 	font-family: "Lexend Deca", sans-serif;
-	background-image: linear-gradient(to bottom, #f7620c, #e0590b, #ca510a, #b44809, #9f4008);
+	background-image: linear-gradient(to bottom, #0cc8f7, #086ba9, #267b8f, #00a5ff, #0b4c6b);;
 }
 
 .service-block_two strong {
