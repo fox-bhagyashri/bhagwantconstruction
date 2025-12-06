@@ -1,5 +1,12 @@
 <?php
+ini_set("log_errors", 1);
+ini_set("error_log", "error_log.log");
+ini_set("display_errors", 0);
+
 include_once 'conn.php';
+
+
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -54,46 +61,46 @@ include_once 'conn.php';
         <!-- End Main Header -->
 
         <style>
-        .gallery img {
-            width: 100%;
-            border-radius: 10px;
-            cursor: pointer;
-            transition: transform 0.2s;
-        }
+            .gallery img {
+                width: 100%;
+                border-radius: 10px;
+                cursor: pointer;
+                transition: transform 0.2s;
+            }
 
-        .gallery img:hover {
-            transform: scale(1.05);
-        }
+            .gallery img:hover {
+                transform: scale(1.05);
+            }
 
-        /* Modal Styles */
-        .modal-custom {
-            display: none;
-            position: fixed;
-            z-index: 1000;
-            left: 0;
-            top: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.8);
-            justify-content: center;
-            align-items: center;
-        }
+            /* Modal Styles */
+            .modal-custom {
+                display: none;
+                position: fixed;
+                z-index: 1000;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.8);
+                justify-content: center;
+                align-items: center;
+            }
 
-        .modal-content-custom {
-            max-width: 90%;
-            max-height: 80%;
-            border-radius: 10px;
-        }
+            .modal-content-custom {
+                max-width: 90%;
+                max-height: 80%;
+                border-radius: 10px;
+            }
 
-        .close-custom {
-            position: absolute;
-            top: 20px;
-            right: 30px;
-            font-size: 40px;
-            font-weight: bold;
-            color: white;
-            cursor: pointer;
-        }
+            .close-custom {
+                position: absolute;
+                top: 20px;
+                right: 30px;
+                font-size: 40px;
+                font-weight: bold;
+                color: white;
+                cursor: pointer;
+            }
         </style>
 
 
@@ -141,24 +148,24 @@ include_once 'conn.php';
                             aria-labelledby="pills-home-tab">
 
                             <div class="row">
-                                <?php 
-                                           
-                                           $sql = "SELECT * FROM projects WHERE site_name='Ravet'";
-                                           $result = $conn->query($sql);
-                                           if ($result->num_rows > 0) {
-                                             // output data of each row
-                                                $srno = 1;
-                                             while($row = $result->fetch_assoc()) {
-                                           ?>
-
-                                <div class="col-6 col-md-4 col-lg-3 mb-3">
-                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
-
-                                </div>
                                 <?php
-                                             }
-                                            }
-                                            ?>
+
+                                $sql = "SELECT * FROM projects WHERE site_name='Ravet'";
+                                $result = $conn->query($sql);
+                                if ($result->num_rows > 0) {
+                                    // output data of each row
+                                    $srno = 1;
+                                    while ($row = $result->fetch_assoc()) {
+                                ?>
+
+                                        <div class="col-6 col-md-4 col-lg-3 mb-3">
+                                            <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
+
+                                        </div>
+                                <?php
+                                    }
+                                }
+                                ?>
                             </div>
 
                         </div>
@@ -166,24 +173,24 @@ include_once 'conn.php';
                             aria-labelledby="pills-profile-tab">
 
                             <div class="row">
-                                <?php 
-                                           
-                                           $sql = "SELECT * FROM projects WHERE site_name='Talegoan'";
-                                           $result = $conn->query($sql);
-                                           if ($result->num_rows > 0) {
-                                             // output data of each row
-                                                $srno = 1;
-                                             while($row = $result->fetch_assoc()) {
-                                           ?>
-
-                                <div class="col-6 col-md-4 col-lg-3 mb-3">
-                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
-
-                                </div>
                                 <?php
-                                             }
-                                            }
-                                            ?>
+
+                                $sql = "SELECT * FROM projects WHERE site_name='Talegoan'";
+                                $result = $conn->query($sql);
+                                if ($result->num_rows > 0) {
+                                    // output data of each row
+                                    $srno = 1;
+                                    while ($row = $result->fetch_assoc()) {
+                                ?>
+
+                                        <div class="col-6 col-md-4 col-lg-3 mb-3">
+                                            <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
+
+                                        </div>
+                                <?php
+                                    }
+                                }
+                                ?>
                             </div>
 
                         </div>
@@ -191,24 +198,24 @@ include_once 'conn.php';
                             aria-labelledby="pills-contact-tab">
 
                             <div class="row">
-                                <?php 
-                                           
-                                           $sql = "SELECT * FROM projects WHERE site_name='Hinjawadi'";
-                                           $result = $conn->query($sql);
-                                           if ($result->num_rows > 0) {
-                                             // output data of each row
-                                                $srno = 1;
-                                             while($row = $result->fetch_assoc()) {
-                                           ?>
-
-                                <div class="col-6 col-md-4 col-lg-3 mb-3">
-                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
-
-                                </div>
                                 <?php
-                                             }
-                                            }
-                                            ?>
+
+                                $sql = "SELECT * FROM projects WHERE site_name='Hinjawadi'";
+                                $result = $conn->query($sql);
+                                if ($result->num_rows > 0) {
+                                    // output data of each row
+                                    $srno = 1;
+                                    while ($row = $result->fetch_assoc()) {
+                                ?>
+
+                                        <div class="col-6 col-md-4 col-lg-3 mb-3">
+                                            <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
+
+                                        </div>
+                                <?php
+                                    }
+                                }
+                                ?>
                             </div>
 
                         </div>
@@ -227,29 +234,29 @@ include_once 'conn.php';
         </div>
 
         <script>
-        const modal = document.getElementById("myModal");
-        const modalImg = document.getElementById("popupImg");
-        const closeBtn = document.querySelector(".close-custom");
+            const modal = document.getElementById("myModal");
+            const modalImg = document.getElementById("popupImg");
+            const closeBtn = document.querySelector(".close-custom");
 
-        // Add click event to gallery images
-        document.querySelectorAll(".gallery img").forEach(img => {
-            img.addEventListener("click", () => {
-                modal.style.display = "flex";
-                modalImg.src = img.src;
+            // Add click event to gallery images
+            document.querySelectorAll(".gallery img").forEach(img => {
+                img.addEventListener("click", () => {
+                    modal.style.display = "flex";
+                    modalImg.src = img.src;
+                });
             });
-        });
 
-        // Close modal when clicking X
-        closeBtn.addEventListener("click", () => {
-            modal.style.display = "none";
-        });
-
-        // Close modal when clicking outside image
-        modal.addEventListener("click", (e) => {
-            if (e.target === modal) {
+            // Close modal when clicking X
+            closeBtn.addEventListener("click", () => {
                 modal.style.display = "none";
-            }
-        });
+            });
+
+            // Close modal when clicking outside image
+            modal.addEventListener("click", (e) => {
+                if (e.target === modal) {
+                    modal.style.display = "none";
+                }
+            });
         </script>
 
 
