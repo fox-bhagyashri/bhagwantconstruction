@@ -1,7 +1,8 @@
 <?php
 ini_set("log_errors", 1);
-ini_set("error_log", __DIR__ . "/error_log.log");
-ini_set("display_errors", 0);
+ini_set("error_log", __DIR__ . "/error_log.txt"); // log file in same folder
+ini_set("display_errors", 0); // Do not show errors to user
+
 
 include_once 'conn.php';
 
