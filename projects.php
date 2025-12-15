@@ -1,5 +1,7 @@
 <?php
 include_once 'conn.php';
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 ?>
 <!DOCTYPE html>
 <html>
@@ -135,6 +137,26 @@ include_once 'conn.php';
                                 data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
                                 aria-selected="false" style="font-size: 18px;">Hinjawadi</button>
                         </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="pills-contactt-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-contactt" type="button" role="tab" aria-controls="pills-contactt"
+                                aria-selected="false" style="font-size: 18px;">Pimpri Chinchwad</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="pills-pune-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-pune" type="button" role="tab" aria-controls="pills-pune"
+                                aria-selected="false" style="font-size: 18px;">Pune Division</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="pills-Mawal-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-Mawal" type="button" role="tab" aria-controls="pills-Mawal"
+                                aria-selected="false" style="font-size: 18px;">Mawal</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="pills-Ambale-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-Ambale" type="button" role="tab" aria-controls="pills-Ambale"
+                                aria-selected="false" style="font-size: 18px;">Ambale</button>
+                        </li>
                     </ul>
                     <div class="tab-content" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
@@ -194,6 +216,103 @@ include_once 'conn.php';
                                 <?php 
                                            
                                            $sql = "SELECT * FROM projects WHERE site_name='Hinjawadi'";
+                                           $result = $conn->query($sql);
+                                           if ($result->num_rows > 0) {
+                                             // output data of each row
+                                                $srno = 1;
+                                             while($row = $result->fetch_assoc()) {
+                                           ?>
+
+                                <div class="col-6 col-md-4 col-lg-3 mb-3">
+                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
+
+                                </div>
+                                <?php
+                                             }
+                                            }
+                                            ?>
+                            </div>
+
+                        </div>
+                        <div class="tab-pane fade" id="pills-contactt" role="tabpanel"
+                            aria-labelledby="pills-contactt-tab">
+
+                            <div class="row">
+                                <?php 
+                                           
+                                           $sql = "SELECT * FROM projects WHERE site_name='Pimpri Chinchwad'";
+                                           $result = $conn->query($sql);
+                                           if ($result->num_rows > 0) {
+                                             // output data of each row
+                                                $srno = 1;
+                                             while($row = $result->fetch_assoc()) {
+                                           ?>
+
+                                <div class="col-6 col-md-4 col-lg-3 mb-3">
+                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
+
+                                </div>
+                                <?php
+                                             }
+                                            }
+                                            ?>
+                            </div>
+
+                        </div>
+                        <div class="tab-pane fade" id="pills-pune" role="tabpanel" aria-labelledby="pills-pune-tab">
+
+                            <div class="row">
+                                <?php 
+                                           
+                                           $sql = "SELECT * FROM projects WHERE site_name='Pune Division'";
+                                           $result = $conn->query($sql);
+                                           if ($result->num_rows > 0) {
+                                             // output data of each row
+                                                $srno = 1;
+                                             while($row = $result->fetch_assoc()) {
+                                           ?>
+
+                                <div class="col-6 col-md-4 col-lg-3 mb-3">
+                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
+
+                                </div>
+                                <?php
+                                             }
+                                            }
+                                            ?>
+                            </div>
+
+                        </div>
+                        <div class="tab-pane fade" id="pills-Mawal" role="tabpanel" aria-labelledby="pills-Mawal-tab">
+
+                            <div class="row">
+                                <?php 
+                                           
+                                           $sql = "SELECT * FROM projects WHERE site_name='Mawal'";
+                                           $result = $conn->query($sql);
+                                           if ($result->num_rows > 0) {
+                                             // output data of each row
+                                                $srno = 1;
+                                             while($row = $result->fetch_assoc()) {
+                                           ?>
+
+                                <div class="col-6 col-md-4 col-lg-3 mb-3">
+                                    <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
+
+                                </div>
+                                <?php
+                                             }
+                                            }
+                                            ?>
+                            </div>
+
+                        </div>
+                        <div class="tab-pane fade" id="pills-Ambale" role="tabpanel" aria-labelledby="pills-Ambale-tab">
+
+                            <div class="row">
+                                <?php 
+                                           
+                                           $sql = "SELECT * FROM projects WHERE site_name='Ambale'";
                                            $result = $conn->query($sql);
                                            if ($result->num_rows > 0) {
                                              // output data of each row

@@ -1353,7 +1353,7 @@
                                 <div class="info-block_one-inner">
                                     <div class="info-block_one-icon fa-classic fa-solid fa-clock fa-fw"></div>
                                     <strong>Opening Hours</strong>
-                                    Mon - Fri: 09am - 07pm
+                                    Mon - Sat: 09am - 07pm
                                 </div>
                             </div>
 
