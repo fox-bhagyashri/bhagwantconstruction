@@ -1,7 +1,5 @@
 <?php
 include_once 'conn.php';
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
 ?>
 <!DOCTYPE html>
 <html>
@@ -163,24 +161,24 @@ ini_set('display_errors', 1);
                             aria-labelledby="pills-home-tab">
 
                             <div class="row">
-                                <?php 
-                                           
-                                           $sql = "SELECT * FROM projects WHERE site_name='Ravet'";
-                                           $result = $conn->query($sql);
-                                           if ($result->num_rows > 0) {
-                                             // output data of each row
-                                                $srno = 1;
-                                             while($row = $result->fetch_assoc()) {
-                                           ?>
+                                <?php
+
+                                $sql = "SELECT * FROM projects WHERE site_name='Ravet'";
+                                $result = $conn->query($sql);
+                                if ($result->num_rows > 0) {
+                                    // output data of each row
+                                    $srno = 1;
+                                    while ($row = $result->fetch_assoc()) {
+                                ?>
 
                                 <div class="col-6 col-md-4 col-lg-3 mb-3">
                                     <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
 
                                 </div>
                                 <?php
-                                             }
-                                            }
-                                            ?>
+                                    }
+                                }
+                                ?>
                             </div>
 
                         </div>
@@ -188,24 +186,24 @@ ini_set('display_errors', 1);
                             aria-labelledby="pills-profile-tab">
 
                             <div class="row">
-                                <?php 
-                                           
-                                           $sql = "SELECT * FROM projects WHERE site_name='Talegoan'";
-                                           $result = $conn->query($sql);
-                                           if ($result->num_rows > 0) {
-                                             // output data of each row
-                                                $srno = 1;
-                                             while($row = $result->fetch_assoc()) {
-                                           ?>
+                                <?php
+
+                                $sql = "SELECT * FROM projects WHERE site_name='Talegoan'";
+                                $result = $conn->query($sql);
+                                if ($result->num_rows > 0) {
+                                    // output data of each row
+                                    $srno = 1;
+                                    while ($row = $result->fetch_assoc()) {
+                                ?>
 
                                 <div class="col-6 col-md-4 col-lg-3 mb-3">
                                     <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
 
                                 </div>
                                 <?php
-                                             }
-                                            }
-                                            ?>
+                                    }
+                                }
+                                ?>
                             </div>
 
                         </div>
@@ -213,24 +211,24 @@ ini_set('display_errors', 1);
                             aria-labelledby="pills-contact-tab">
 
                             <div class="row">
-                                <?php 
-                                           
-                                           $sql = "SELECT * FROM projects WHERE site_name='Hinjawadi'";
-                                           $result = $conn->query($sql);
-                                           if ($result->num_rows > 0) {
-                                             // output data of each row
-                                                $srno = 1;
-                                             while($row = $result->fetch_assoc()) {
-                                           ?>
+                                <?php
+
+                                $sql = "SELECT * FROM projects WHERE site_name='Hinjawadi'";
+                                $result = $conn->query($sql);
+                                if ($result->num_rows > 0) {
+                                    // output data of each row
+                                    $srno = 1;
+                                    while ($row = $result->fetch_assoc()) {
+                                ?>
 
                                 <div class="col-6 col-md-4 col-lg-3 mb-3">
                                     <img src="admin/<?php echo $row["image"] ?>" alt="Image 1">
 
                                 </div>
                                 <?php
-                                             }
-                                            }
-                                            ?>
+                                    }
+                                }
+                                ?>
                             </div>
 
                         </div>
